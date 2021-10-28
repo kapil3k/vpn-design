@@ -81,6 +81,7 @@ a {
   width: 65px;
   height: 65px;
   border-radius: 11px;
+  background: #dba601;
 }
 .title {
   display: flex;
